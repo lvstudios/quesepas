@@ -1,0 +1,5 @@
+body { font-family: Arial; margin: 20px; background: #f9f9f9; }
+header { text-align: center; margin-bottom: 20px; }
+.article { background: #fff; border: 1px solid #ccc; padding: 15px; margin-bottom: 10px; border-radius: 5px; }
+.article h2 { margin: 0 0 5px; color: #333; }
+.meta { font-size: 0.9em; color: #555; }
